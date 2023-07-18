@@ -1,4 +1,4 @@
-                **Agure Lameck - Java Developer**
+                __Agure Lameck - Java Developer__
 
 Hello there! Welcome to my GitHub profile. I'm Agure Lameck, a passionate and dedicated Java developer with a strong understanding of object-oriented programming, microservice architecture, Git, and databases. I'm excited to showcase my skills and projects here, so let's dive in and get to know each other better.
 
