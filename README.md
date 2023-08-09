@@ -1,6 +1,6 @@
                 Agure Lameck - Java Developer
 
-Hello there! Welcome to my GitHub profile. I'm Agure Lameck, a passionate and dedicated Java developer with a strong understanding of object-oriented programming, microservice architecture, Git, and databases. I'm excited to showcase my skills and projects here, so let's dive in and get to know each other better.
+Welcome to my GitHub profile. I'm Agure Lameck, a passionate and dedicated Java developer with a strong understanding of object-oriented programming, microservice architecture, Git, and databases. I'm excited to showcase my skills and projects here, so let's dive in and get to know each other better.
 
 
 
@@ -8,7 +8,7 @@ Hello there! Welcome to my GitHub profile. I'm Agure Lameck, a passionate and de
 I have a deep passion for software development and a solid foundation in Java programming. I am enthusiastic about learning new technologies and constantly expanding my knowledge to stay up-to-date with the latest industry trends. My curiosity and eagerness to solve complex problems drive me to explore innovative solutions and contribute to meaningful projects.
 
                    Skills
-Java Development:Proficient in Java programming with a focus on object-oriented design principles and best practices. Experienced in developing scalable and efficient applications using Java frameworks(quarkus and springboot).
+**Java Development:**Proficient in Java programming with a focus on object-oriented design principles and best practices. Experienced in developing scalable and efficient applications using Java frameworks(quarkus and springboot).
 
 **Micro Service Architecture:** Familiar with designing and implementing microservices, leveraging technologies such as Spring Boot and Docker to build robust and scalable distributed systems.
 
