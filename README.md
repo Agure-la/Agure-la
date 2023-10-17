@@ -1,3 +1,16 @@
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+LORDWILL;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# Hi I'm Agure Lameck.👋
+
+###  I aa passionate and dedicated Backend developer with a strong understanding of object-oriented programming, microservice architecture, Git, and databases. I'm excited to showcase my skills and projects here, so let's dive in and get to know each other better.. `I learn by doing....`
+
+- #### 🔭 I’m currently working on my coding skills through ALX Software Engineering program.
+- #### 👯 I’m open to collaborate on Software Engineering projects.
+
+  # Contact 
+* [LinkedIn](https://www.linkedin.com/in/agure-lameck-915366233/)
+* [Twitter](https://twitter.com/K_agure)
+* [Email](mailto:lameckagure@gmail.com)
+                
                 Agure Lameck - Java Developer
 
 Welcome to my GitHub profile. I'm Agure Lameck, a passionate and dedicated Java developer with a strong understanding of object-oriented programming, microservice architecture, Git, and databases. I'm excited to showcase my skills and projects here, so let's dive in and get to know each other better.
