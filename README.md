@@ -1,7 +1,7 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+LORDWILL;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi!+You+Are+Welcome+To+My+Github+Profile;My+Name+Is+Agure;I+Am+Passionate+About+Coding;I+help+solve+problems+by+implementing+Software+Solution)](https://git.io/typing-svg)
 # Hi I'm Agure Lameck.👋
 
-###  I aa passionate and dedicated Backend developer with a strong understanding of object-oriented programming, microservice architecture, Git, and databases. I'm excited to showcase my skills and projects here, so let's dive in and get to know each other better.. `I learn by doing....`
+###  I am passionate and dedicated Backend developer with a strong understanding of object-oriented programming, microservice architecture, Git, and databases. I'm excited to showcase my skills and projects here, so let's dive in and get to know each other better.. `I learn by doing....`
 
 - #### 🔭 I’m currently working on my coding skills through ALX Software Engineering program.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
