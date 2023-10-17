@@ -10,7 +10,8 @@
 * [LinkedIn](https://www.linkedin.com/in/agure-lameck-915366233/)
 * [Twitter](https://twitter.com/K_agure)
 * [Email](mailto:lameckagure@gmail.com)
-                
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agure-la&layout=compact)](https://github.com/Agure-la/github-readme-stats)      
                 Agure Lameck - Java Developer
 
 Welcome to my GitHub profile. I'm Agure Lameck, a passionate and dedicated Java developer with a strong understanding of object-oriented programming, microservice architecture, Git, and databases. I'm excited to showcase my skills and projects here, so let's dive in and get to know each other better.
