@@ -42,6 +42,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agure-la&show_icons=true&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Agure-la&" alt="lexxyla" /></p>
 <!--
 **Agure-la/Agure-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
