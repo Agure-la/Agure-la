@@ -3,7 +3,7 @@
 
 ###  I am passionate and dedicated Backend developer with a strong understanding of object-oriented programming, microservice architecture, Git, and databases. I'm excited to showcase my skills and projects here, so let's dive in and get to know each other better.. `I learn by doing....`
 
-- #### 🔭 I’m currently working on my coding skills through ALX Software Engineering program.
+- #### 🔭 I’m a former and certified ALX Software Engineering graduate.
 - #### 👯 I'm always open to new opportunities, collaborations, or just having a chat about software development.
 
   # Contact 
